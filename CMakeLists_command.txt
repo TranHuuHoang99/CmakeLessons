@@ -1,0 +1,8 @@
+CMAKE BUILD COMMAND
+
+cmake -G "MinGW Makefiles" . -B build  
+
+
+
+
+

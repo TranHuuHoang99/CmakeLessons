@@ -1,0 +1,3 @@
+C:/Users/TOH4HC/Documents/LearningSkill/CmakeLessons/build/CMakeFiles/hoangprodn.dir
+C:/Users/TOH4HC/Documents/LearningSkill/CmakeLessons/build/CMakeFiles/edit_cache.dir
+C:/Users/TOH4HC/Documents/LearningSkill/CmakeLessons/build/CMakeFiles/rebuild_cache.dir
